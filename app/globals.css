@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 200px;
+}
+
+body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "DMSans";
+  src: url("../public/assets/fonts//DM_Sans/sans/DMSans_36pt-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSansextra";
+  src: url("../public/assets/fonts//DM_Sans/sans/DMSans_36pt-ExtraBold.ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSansMedium";
+  src: url("../public/assets/fonts//DM_Sans/sans/DMSans_36pt-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSansReg";
+  src: url("../public/assets/fonts//DM_Sans/sans/DMSans_36pt-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
