@@ -4,14 +4,14 @@ This is a website for secSystem
 
 ## Table of contents
 
-- [secsSystem](#secsSystem)
+- [shamsBridge](#shamsBridge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
-### secsSystem
+### shamsBridge
 
 Users should be able to:
 
@@ -19,13 +19,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/assets/secsystem.png)
+![](./public/assets/shamsBridge.png)
 
 
 ### Links
 
-- Solution URL1: [https://github.com/Dexie14/secsSystem](https://github.com/Dexie14/secsSystem)
-- Solution URL2: [https://secs-system.vercel.app/](https://secs-system.vercel.app/)
+- Solution URL1: [https://github.com/Dexie14/shamzbridgeLanding](https://github.com/Dexie14/shamzbridgeLanding)
+
 
 
 
