@@ -25,6 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL1: [https://github.com/Dexie14/shamzbridgeLanding](https://github.com/Dexie14/shamzbridgeLanding)
+- Solution URL2: [https://shamzbridge-landing.vercel.app/](https://shamzbridge-landing.vercel.app/) 
 
 
 
@@ -33,6 +34,7 @@ Users should be able to:
 
 - Github - [@Dexie14](https://github.com/Dexie14)
 - Twitter - [@adeluadeoniye14](https://www.twitter.com/adeluadeoniye14)
+- LinkedIn - [@adelu-adeoniye](https://www.linkedin.com/in/adelu-adeoniye/)
 
 ## Acknowledgments
 
